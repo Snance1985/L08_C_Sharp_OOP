@@ -1,0 +1,15 @@
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\bin\Debug\net6.0\ExampleApp.exe
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\bin\Debug\net6.0\ExampleApp.deps.json
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\bin\Debug\net6.0\ExampleApp.runtimeconfig.json
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\bin\Debug\net6.0\ExampleApp.dll
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\bin\Debug\net6.0\ExampleApp.pdb
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.csproj.AssemblyReference.cache
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.AssemblyInfoInputs.cache
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.AssemblyInfo.cs
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.csproj.CoreCompileInputs.cache
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.dll
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\refint\ExampleApp.dll
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.pdb
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ExampleApp.genruntimeconfig.cache
+c:\Users\sean_\Desktop\l10-testing\ExampleApp\obj\Debug\net6.0\ref\ExampleApp.dll
